@@ -122,6 +122,7 @@ src/**/*.js
 !src/partials/lib/MakeOfferDialog/validate.js
 
 
+!pages/test.js
 !pages/general-profile.js
 !src/api/backend/index.js
 !src/api/backend/model/ProfileClientModel.js
